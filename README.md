@@ -5,8 +5,8 @@
 
 <div align="left">
   
-- 🏡 I live in Oslo, Norway\
-- 🌱 I’m currently learning the t3-stack
+- 🏡 I live in Oslo, Norway
+- 🌱 I’m currently learning general frontend stuff
 </div>
 
 *****
