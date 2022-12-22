@@ -1,12 +1,12 @@
 
-<h3 align="center">Hello, people! 🌍</h3>
+<h3 align="left">Hello, people! 🌍</h3>
 
 
 
-<div align="center">
+<div align="left">
   
-🏡 I live in Oslo, Norway\
-🌱 I’m currently learning the t3-stack
+- 🏡 I live in Oslo, Norway\
+- 🌱 I’m currently learning the t3-stack
 </div>
 
 *****
